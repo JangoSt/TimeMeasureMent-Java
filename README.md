@@ -1,4 +1,4 @@
-# TimeMeasureMent-Java
+# TimeMeasureMent Java / Android 
 Simple easy to use TimeMeasurement class for Java
 
 ### usage:
